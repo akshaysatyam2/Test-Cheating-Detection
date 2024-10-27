@@ -99,7 +99,7 @@ There are various areas where the project can be enhanced:
 1. **Extended Head Pose Estimation**: Incorporate more detailed 3D head pose estimation for finer orientation details.
 2. **Real-Time Processing**: Adapt the code for real-time video input or camera feed.
 3. **Device-Specific Classification**: Extend communication device detection to a broader range of items, potentially with fine-grained classification.
-4. **Model Training**: Currently we are using base model of Yolo and Mediapie's Pose model so we can finetune or use better models for our tasks.
+4. **Model Training**: Currently we are using base model of Yolo and Mediapipe's Pose model so we can finetune or use better models for our tasks.
 
 ---
 
