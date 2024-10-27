@@ -23,7 +23,7 @@ This type of analysis can be useful in various scenarios, such as monitoring att
 
 ## Technologies Used
 
-- **Python 3.x** - Programming Language
+- **Python 3.12** - Programming Language
 - **OpenCV** - For image processing and visualization
 - **YOLOv8** - Pre-trained model for object detection
 - **MediaPipe** - For human pose and facial landmark detection
